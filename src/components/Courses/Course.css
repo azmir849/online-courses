@@ -1,0 +1,33 @@
+.course{
+    border: 5px solid lightgrey;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    background-color:khaki;
+}
+.course h6{
+    font-weight:bolder;
+}
+
+.course-name{
+    color: #22573e;
+    font-weight: 700;
+}
+
+.enroll-button{
+    margin-bottom:20px;
+    border: none;
+    border-radius:10px;
+    padding: 15px;
+    background-color: #28c2a8c9;
+    color: white;
+    font-weight:700;
+}
+
+.enroll-button:hover{
+    background-color:#4a89dc;
+}
+
+.price{
+    color: maroon;
+}

@@ -1,0 +1,17 @@
+.shop-container{
+    display: flex;
+}
+
+.course-container{
+    width: 70%;
+    margin-left: 30px;
+}
+
+.cart-container{
+    padding: 20px;
+    border: none;
+    border-radius:10px;
+    background-color:goldenrod;
+    height: 260px;
+    width: 400px;
+}
